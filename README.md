@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GuruPrasadhBM
+- 👋 Hi, I’m Guru Prasadh
 - 👀 I’m a Machine Learning Engineer
 
 
